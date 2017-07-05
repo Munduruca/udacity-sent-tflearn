@@ -4,4 +4,4 @@ this is a simple tflearn approach for sentiment analysis using imdb database (pi
 #todo:
 we still need to fix 2 points which are 
 1. load the ".tflearn" model
-2. run a random sentece
+2. predict sentiment using a random sentece
